@@ -1,1 +1,1 @@
-# InventoryManagementSystem
+# StockIT : Inventory Management System
